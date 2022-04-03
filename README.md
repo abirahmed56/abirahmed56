@@ -1,16 +1,38 @@
-### Hi there 👋
+#### Hi there👋
 
-<!--
-**abirahmed56/abirahmed56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Studing Software Engineering at Shahjalal University of Science and Technology, Sylhet.    
 
-Here are some ideas to get you started:
+ [![Sabit's github stats](https://github-readme-stats.vercel.app/api?username=abirahmed56&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+                                   
+ ###### 🔭 Skills :                               
+  - Android
+
+###### Interests :
+  - Competetive Programming
+  
+###### Languages :
+  - c &* c++
+  - java 
+  - javascript
+
+###### Tools :
+  - Android Studio 
+  - Intelij Idea
+  - VS Code 
+
+###### Achievements :
+   - Loading...
+
+###### Fun fact : 
+  - Photography
+ <br/>
+<!-- 
+## Connect with me :
+[<img align="left" color="#FFFFFF" alt="codeSTACKr | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+[linkedin]: -->
+
