@@ -4,7 +4,7 @@
 
  [![Abir's github stats](https://github-readme-stats.vercel.app/api?username=abirahmed56&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-< br/>
+<br/>
                                    
  ###### 🔭 Skills :
   - Web
@@ -30,7 +30,7 @@
 ###### Fun fact : 
   - Photography
   - Playing 
- < br/>
+ <br/>
 <!-- 
 ## Connect with me :
 [<img align="left" color="#FFFFFF" alt="codeSTACKr | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
