@@ -1,25 +1,27 @@
 #### Hi there👋
 
-### Studing Software Engineering at Shahjalal University of Science and Technology, Sylhet.    
+### Studying Software Engineering at Shahjalal University of Science and Technology, Sylhet.    
 
- [![Sabit's github stats](https://github-readme-stats.vercel.app/api?username=abirahmed56&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+ [![Abir's github stats](https://github-readme-stats.vercel.app/api?username=abirahmed56&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<br/>
+< br/>
                                    
- ###### 🔭 Skills :                               
+ ###### 🔭 Skills :
+  - Web
   - Android
 
 ###### Interests :
-  - Competetive Programming
+  - Competitive Programming
   
 ###### Languages :
+  - Python
   - c &* c++
   - java 
   - javascript
 
 ###### Tools :
   - Android Studio 
-  - Intelij Idea
+  - IntelliJ Idea
   - VS Code 
 
 ###### Achievements :
@@ -27,7 +29,8 @@
 
 ###### Fun fact : 
   - Photography
- <br/>
+  - Playing 
+ < br/>
 <!-- 
 ## Connect with me :
 [<img align="left" color="#FFFFFF" alt="codeSTACKr | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
