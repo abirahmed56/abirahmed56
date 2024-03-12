@@ -1,17 +1,19 @@
 #### Hi there👋
-
-### Studying Software Engineering at Shahjalal University of Science and Technology, Sylhet.    
+I am deeply passionate about delving into the fundamentals of deep learning architectures from scratch. My enthusiasm for mastering the complexities of deep learning drives me to continuously expand my knowledge and skills in this dynamic field.
+### Graduated from Software Engineering at Shahjalal University of Science and Technology, Sylhet.    
 
  [![Abir's github stats](https://github-readme-stats.vercel.app/api?username=abirahmed56&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
                                    
  ###### 🔭 Skills :
-  - Web
-  - Android
+  - Frameworks: PyTorch
+  - Libraries: Pandas, Numpy, Matplotlib, OpenCV
 
 ###### Interests :
-  - Competitive Programming
+  - DeepLearning
+  - Mathematics
+  - Problem Solving
   
 ###### Languages :
   - Python
@@ -20,9 +22,12 @@
   - javascript
 
 ###### Tools :
+  - PyTorch
+  - Jupiter notebook
+  - Google Collab
+  - VS Code 
   - Android Studio 
   - IntelliJ Idea
-  - VS Code 
 
 ###### Achievements :
    - Loading...
